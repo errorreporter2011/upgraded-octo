@@ -1,1 +1,4 @@
-theme: jekyll-theme-dinky
+title: upgraded-octo
+description: This site is NSFW, don't view the posts if you know what's good for you.
+plugins:
+  - jekyll-feed
